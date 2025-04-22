@@ -20,5 +20,7 @@ A header is a larger bit of text at the beginning of a section. There are six si
 ## This is an `<h2>` header  
 ###### This is an `<h6>` header, which is the smallest
 ## Here's an image of the Yaktocat!
-
 ![A cute Octocat wearing a Yak hat](https://octodex.github.com/images/yaktocat.png)
+``` javascript
+var myVar = "Hello, world!";
+```
