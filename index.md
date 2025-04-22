@@ -24,3 +24,6 @@ A header is a larger bit of text at the beginning of a section. There are six si
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
